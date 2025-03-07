@@ -1,0 +1,3 @@
+[submodule "my-cv/themes/simple-resume"]
+	path = my-cv/themes/simple-resume
+	url = https://github.com/tylersayshi/simple-resume
